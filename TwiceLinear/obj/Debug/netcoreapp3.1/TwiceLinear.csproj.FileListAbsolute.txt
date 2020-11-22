@@ -1,0 +1,12 @@
+C:\Users\Богдан\Desktop\Codewars C#\TwiceLinear\TwiceLinear\bin\Debug\netcoreapp3.1\TwiceLinear.exe
+C:\Users\Богдан\Desktop\Codewars C#\TwiceLinear\TwiceLinear\bin\Debug\netcoreapp3.1\TwiceLinear.deps.json
+C:\Users\Богдан\Desktop\Codewars C#\TwiceLinear\TwiceLinear\bin\Debug\netcoreapp3.1\TwiceLinear.runtimeconfig.json
+C:\Users\Богдан\Desktop\Codewars C#\TwiceLinear\TwiceLinear\bin\Debug\netcoreapp3.1\TwiceLinear.runtimeconfig.dev.json
+C:\Users\Богдан\Desktop\Codewars C#\TwiceLinear\TwiceLinear\bin\Debug\netcoreapp3.1\TwiceLinear.dll
+C:\Users\Богдан\Desktop\Codewars C#\TwiceLinear\TwiceLinear\bin\Debug\netcoreapp3.1\TwiceLinear.pdb
+C:\Users\Богдан\Desktop\Codewars C#\TwiceLinear\TwiceLinear\obj\Debug\netcoreapp3.1\TwiceLinear.AssemblyInfoInputs.cache
+C:\Users\Богдан\Desktop\Codewars C#\TwiceLinear\TwiceLinear\obj\Debug\netcoreapp3.1\TwiceLinear.AssemblyInfo.cs
+C:\Users\Богдан\Desktop\Codewars C#\TwiceLinear\TwiceLinear\obj\Debug\netcoreapp3.1\TwiceLinear.csproj.CoreCompileInputs.cache
+C:\Users\Богдан\Desktop\Codewars C#\TwiceLinear\TwiceLinear\obj\Debug\netcoreapp3.1\TwiceLinear.dll
+C:\Users\Богдан\Desktop\Codewars C#\TwiceLinear\TwiceLinear\obj\Debug\netcoreapp3.1\TwiceLinear.pdb
+C:\Users\Богдан\Desktop\Codewars C#\TwiceLinear\TwiceLinear\obj\Debug\netcoreapp3.1\TwiceLinear.genruntimeconfig.cache
