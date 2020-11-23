@@ -1,0 +1,13 @@
+C:\Users\Богдан\Desktop\Codewars C#\RangeExtraction\RangeExtraction\bin\Debug\netcoreapp3.1\RangeExtraction.exe
+C:\Users\Богдан\Desktop\Codewars C#\RangeExtraction\RangeExtraction\bin\Debug\netcoreapp3.1\RangeExtraction.deps.json
+C:\Users\Богдан\Desktop\Codewars C#\RangeExtraction\RangeExtraction\bin\Debug\netcoreapp3.1\RangeExtraction.runtimeconfig.json
+C:\Users\Богдан\Desktop\Codewars C#\RangeExtraction\RangeExtraction\bin\Debug\netcoreapp3.1\RangeExtraction.runtimeconfig.dev.json
+C:\Users\Богдан\Desktop\Codewars C#\RangeExtraction\RangeExtraction\bin\Debug\netcoreapp3.1\RangeExtraction.dll
+C:\Users\Богдан\Desktop\Codewars C#\RangeExtraction\RangeExtraction\bin\Debug\netcoreapp3.1\RangeExtraction.pdb
+C:\Users\Богдан\Desktop\Codewars C#\RangeExtraction\RangeExtraction\obj\Debug\netcoreapp3.1\RangeExtraction.csprojAssemblyReference.cache
+C:\Users\Богдан\Desktop\Codewars C#\RangeExtraction\RangeExtraction\obj\Debug\netcoreapp3.1\RangeExtraction.AssemblyInfoInputs.cache
+C:\Users\Богдан\Desktop\Codewars C#\RangeExtraction\RangeExtraction\obj\Debug\netcoreapp3.1\RangeExtraction.AssemblyInfo.cs
+C:\Users\Богдан\Desktop\Codewars C#\RangeExtraction\RangeExtraction\obj\Debug\netcoreapp3.1\RangeExtraction.csproj.CoreCompileInputs.cache
+C:\Users\Богдан\Desktop\Codewars C#\RangeExtraction\RangeExtraction\obj\Debug\netcoreapp3.1\RangeExtraction.dll
+C:\Users\Богдан\Desktop\Codewars C#\RangeExtraction\RangeExtraction\obj\Debug\netcoreapp3.1\RangeExtraction.pdb
+C:\Users\Богдан\Desktop\Codewars C#\RangeExtraction\RangeExtraction\obj\Debug\netcoreapp3.1\RangeExtraction.genruntimeconfig.cache
