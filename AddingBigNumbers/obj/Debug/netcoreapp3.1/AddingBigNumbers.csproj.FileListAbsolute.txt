@@ -1,0 +1,12 @@
+C:\Users\Богдан\Desktop\Codewars C#\AddingBigNumbers\AddingBigNumbers\bin\Debug\netcoreapp3.1\AddingBigNumbers.exe
+C:\Users\Богдан\Desktop\Codewars C#\AddingBigNumbers\AddingBigNumbers\bin\Debug\netcoreapp3.1\AddingBigNumbers.deps.json
+C:\Users\Богдан\Desktop\Codewars C#\AddingBigNumbers\AddingBigNumbers\bin\Debug\netcoreapp3.1\AddingBigNumbers.runtimeconfig.json
+C:\Users\Богдан\Desktop\Codewars C#\AddingBigNumbers\AddingBigNumbers\bin\Debug\netcoreapp3.1\AddingBigNumbers.runtimeconfig.dev.json
+C:\Users\Богдан\Desktop\Codewars C#\AddingBigNumbers\AddingBigNumbers\bin\Debug\netcoreapp3.1\AddingBigNumbers.dll
+C:\Users\Богдан\Desktop\Codewars C#\AddingBigNumbers\AddingBigNumbers\bin\Debug\netcoreapp3.1\AddingBigNumbers.pdb
+C:\Users\Богдан\Desktop\Codewars C#\AddingBigNumbers\AddingBigNumbers\obj\Debug\netcoreapp3.1\AddingBigNumbers.AssemblyInfoInputs.cache
+C:\Users\Богдан\Desktop\Codewars C#\AddingBigNumbers\AddingBigNumbers\obj\Debug\netcoreapp3.1\AddingBigNumbers.AssemblyInfo.cs
+C:\Users\Богдан\Desktop\Codewars C#\AddingBigNumbers\AddingBigNumbers\obj\Debug\netcoreapp3.1\AddingBigNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Богдан\Desktop\Codewars C#\AddingBigNumbers\AddingBigNumbers\obj\Debug\netcoreapp3.1\AddingBigNumbers.dll
+C:\Users\Богдан\Desktop\Codewars C#\AddingBigNumbers\AddingBigNumbers\obj\Debug\netcoreapp3.1\AddingBigNumbers.pdb
+C:\Users\Богдан\Desktop\Codewars C#\AddingBigNumbers\AddingBigNumbers\obj\Debug\netcoreapp3.1\AddingBigNumbers.genruntimeconfig.cache
