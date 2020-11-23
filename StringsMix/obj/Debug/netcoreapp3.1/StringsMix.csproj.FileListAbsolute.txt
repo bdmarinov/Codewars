@@ -1,0 +1,12 @@
+C:\Users\Богдан\Desktop\Codewars C#\StringsMix\StringsMix\bin\Debug\netcoreapp3.1\StringsMix.exe
+C:\Users\Богдан\Desktop\Codewars C#\StringsMix\StringsMix\bin\Debug\netcoreapp3.1\StringsMix.deps.json
+C:\Users\Богдан\Desktop\Codewars C#\StringsMix\StringsMix\bin\Debug\netcoreapp3.1\StringsMix.runtimeconfig.json
+C:\Users\Богдан\Desktop\Codewars C#\StringsMix\StringsMix\bin\Debug\netcoreapp3.1\StringsMix.runtimeconfig.dev.json
+C:\Users\Богдан\Desktop\Codewars C#\StringsMix\StringsMix\bin\Debug\netcoreapp3.1\StringsMix.dll
+C:\Users\Богдан\Desktop\Codewars C#\StringsMix\StringsMix\bin\Debug\netcoreapp3.1\StringsMix.pdb
+C:\Users\Богдан\Desktop\Codewars C#\StringsMix\StringsMix\obj\Debug\netcoreapp3.1\StringsMix.AssemblyInfoInputs.cache
+C:\Users\Богдан\Desktop\Codewars C#\StringsMix\StringsMix\obj\Debug\netcoreapp3.1\StringsMix.AssemblyInfo.cs
+C:\Users\Богдан\Desktop\Codewars C#\StringsMix\StringsMix\obj\Debug\netcoreapp3.1\StringsMix.csproj.CoreCompileInputs.cache
+C:\Users\Богдан\Desktop\Codewars C#\StringsMix\StringsMix\obj\Debug\netcoreapp3.1\StringsMix.dll
+C:\Users\Богдан\Desktop\Codewars C#\StringsMix\StringsMix\obj\Debug\netcoreapp3.1\StringsMix.pdb
+C:\Users\Богдан\Desktop\Codewars C#\StringsMix\StringsMix\obj\Debug\netcoreapp3.1\StringsMix.genruntimeconfig.cache
