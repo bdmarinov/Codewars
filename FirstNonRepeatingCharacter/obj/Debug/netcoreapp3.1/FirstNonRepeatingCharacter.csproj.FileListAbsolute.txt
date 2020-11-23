@@ -1,0 +1,12 @@
+C:\Users\Богдан\Desktop\Codewars C#\FirstNonRepeatingCharacter\FirstNonRepeatingCharacter\bin\Debug\netcoreapp3.1\FirstNonRepeatingCharacter.exe
+C:\Users\Богдан\Desktop\Codewars C#\FirstNonRepeatingCharacter\FirstNonRepeatingCharacter\bin\Debug\netcoreapp3.1\FirstNonRepeatingCharacter.deps.json
+C:\Users\Богдан\Desktop\Codewars C#\FirstNonRepeatingCharacter\FirstNonRepeatingCharacter\bin\Debug\netcoreapp3.1\FirstNonRepeatingCharacter.runtimeconfig.json
+C:\Users\Богдан\Desktop\Codewars C#\FirstNonRepeatingCharacter\FirstNonRepeatingCharacter\bin\Debug\netcoreapp3.1\FirstNonRepeatingCharacter.runtimeconfig.dev.json
+C:\Users\Богдан\Desktop\Codewars C#\FirstNonRepeatingCharacter\FirstNonRepeatingCharacter\bin\Debug\netcoreapp3.1\FirstNonRepeatingCharacter.dll
+C:\Users\Богдан\Desktop\Codewars C#\FirstNonRepeatingCharacter\FirstNonRepeatingCharacter\bin\Debug\netcoreapp3.1\FirstNonRepeatingCharacter.pdb
+C:\Users\Богдан\Desktop\Codewars C#\FirstNonRepeatingCharacter\FirstNonRepeatingCharacter\obj\Debug\netcoreapp3.1\FirstNonRepeatingCharacter.AssemblyInfoInputs.cache
+C:\Users\Богдан\Desktop\Codewars C#\FirstNonRepeatingCharacter\FirstNonRepeatingCharacter\obj\Debug\netcoreapp3.1\FirstNonRepeatingCharacter.AssemblyInfo.cs
+C:\Users\Богдан\Desktop\Codewars C#\FirstNonRepeatingCharacter\FirstNonRepeatingCharacter\obj\Debug\netcoreapp3.1\FirstNonRepeatingCharacter.csproj.CoreCompileInputs.cache
+C:\Users\Богдан\Desktop\Codewars C#\FirstNonRepeatingCharacter\FirstNonRepeatingCharacter\obj\Debug\netcoreapp3.1\FirstNonRepeatingCharacter.dll
+C:\Users\Богдан\Desktop\Codewars C#\FirstNonRepeatingCharacter\FirstNonRepeatingCharacter\obj\Debug\netcoreapp3.1\FirstNonRepeatingCharacter.pdb
+C:\Users\Богдан\Desktop\Codewars C#\FirstNonRepeatingCharacter\FirstNonRepeatingCharacter\obj\Debug\netcoreapp3.1\FirstNonRepeatingCharacter.genruntimeconfig.cache
