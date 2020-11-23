@@ -1,0 +1,12 @@
+C:\Users\Богдан\Desktop\Codewars C#\DirectionsReduction\DirectionsReduction\bin\Debug\netcoreapp3.1\DirectionsReduction.exe
+C:\Users\Богдан\Desktop\Codewars C#\DirectionsReduction\DirectionsReduction\bin\Debug\netcoreapp3.1\DirectionsReduction.deps.json
+C:\Users\Богдан\Desktop\Codewars C#\DirectionsReduction\DirectionsReduction\bin\Debug\netcoreapp3.1\DirectionsReduction.runtimeconfig.json
+C:\Users\Богдан\Desktop\Codewars C#\DirectionsReduction\DirectionsReduction\bin\Debug\netcoreapp3.1\DirectionsReduction.runtimeconfig.dev.json
+C:\Users\Богдан\Desktop\Codewars C#\DirectionsReduction\DirectionsReduction\bin\Debug\netcoreapp3.1\DirectionsReduction.dll
+C:\Users\Богдан\Desktop\Codewars C#\DirectionsReduction\DirectionsReduction\bin\Debug\netcoreapp3.1\DirectionsReduction.pdb
+C:\Users\Богдан\Desktop\Codewars C#\DirectionsReduction\DirectionsReduction\obj\Debug\netcoreapp3.1\DirectionsReduction.AssemblyInfoInputs.cache
+C:\Users\Богдан\Desktop\Codewars C#\DirectionsReduction\DirectionsReduction\obj\Debug\netcoreapp3.1\DirectionsReduction.AssemblyInfo.cs
+C:\Users\Богдан\Desktop\Codewars C#\DirectionsReduction\DirectionsReduction\obj\Debug\netcoreapp3.1\DirectionsReduction.csproj.CoreCompileInputs.cache
+C:\Users\Богдан\Desktop\Codewars C#\DirectionsReduction\DirectionsReduction\obj\Debug\netcoreapp3.1\DirectionsReduction.dll
+C:\Users\Богдан\Desktop\Codewars C#\DirectionsReduction\DirectionsReduction\obj\Debug\netcoreapp3.1\DirectionsReduction.pdb
+C:\Users\Богдан\Desktop\Codewars C#\DirectionsReduction\DirectionsReduction\obj\Debug\netcoreapp3.1\DirectionsReduction.genruntimeconfig.cache
