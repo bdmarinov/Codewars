@@ -1,0 +1,12 @@
+C:\Users\Богдан\Desktop\Codewars C#\DoubleCola\DoubleCola\bin\Debug\netcoreapp3.1\DoubleCola.exe
+C:\Users\Богдан\Desktop\Codewars C#\DoubleCola\DoubleCola\bin\Debug\netcoreapp3.1\DoubleCola.deps.json
+C:\Users\Богдан\Desktop\Codewars C#\DoubleCola\DoubleCola\bin\Debug\netcoreapp3.1\DoubleCola.runtimeconfig.json
+C:\Users\Богдан\Desktop\Codewars C#\DoubleCola\DoubleCola\bin\Debug\netcoreapp3.1\DoubleCola.runtimeconfig.dev.json
+C:\Users\Богдан\Desktop\Codewars C#\DoubleCola\DoubleCola\bin\Debug\netcoreapp3.1\DoubleCola.dll
+C:\Users\Богдан\Desktop\Codewars C#\DoubleCola\DoubleCola\bin\Debug\netcoreapp3.1\DoubleCola.pdb
+C:\Users\Богдан\Desktop\Codewars C#\DoubleCola\DoubleCola\obj\Debug\netcoreapp3.1\DoubleCola.AssemblyInfoInputs.cache
+C:\Users\Богдан\Desktop\Codewars C#\DoubleCola\DoubleCola\obj\Debug\netcoreapp3.1\DoubleCola.AssemblyInfo.cs
+C:\Users\Богдан\Desktop\Codewars C#\DoubleCola\DoubleCola\obj\Debug\netcoreapp3.1\DoubleCola.csproj.CoreCompileInputs.cache
+C:\Users\Богдан\Desktop\Codewars C#\DoubleCola\DoubleCola\obj\Debug\netcoreapp3.1\DoubleCola.dll
+C:\Users\Богдан\Desktop\Codewars C#\DoubleCola\DoubleCola\obj\Debug\netcoreapp3.1\DoubleCola.pdb
+C:\Users\Богдан\Desktop\Codewars C#\DoubleCola\DoubleCola\obj\Debug\netcoreapp3.1\DoubleCola.genruntimeconfig.cache
