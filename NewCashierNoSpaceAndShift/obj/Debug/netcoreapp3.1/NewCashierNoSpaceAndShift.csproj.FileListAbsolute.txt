@@ -1,0 +1,13 @@
+C:\Users\Богдан\Desktop\Codewars C#\NewCashierNoSpaceAndShift\NewCashierNoSpaceAndShift\bin\Debug\netcoreapp3.1\NewCashierNoSpaceAndShift.exe
+C:\Users\Богдан\Desktop\Codewars C#\NewCashierNoSpaceAndShift\NewCashierNoSpaceAndShift\bin\Debug\netcoreapp3.1\NewCashierNoSpaceAndShift.deps.json
+C:\Users\Богдан\Desktop\Codewars C#\NewCashierNoSpaceAndShift\NewCashierNoSpaceAndShift\bin\Debug\netcoreapp3.1\NewCashierNoSpaceAndShift.runtimeconfig.json
+C:\Users\Богдан\Desktop\Codewars C#\NewCashierNoSpaceAndShift\NewCashierNoSpaceAndShift\bin\Debug\netcoreapp3.1\NewCashierNoSpaceAndShift.runtimeconfig.dev.json
+C:\Users\Богдан\Desktop\Codewars C#\NewCashierNoSpaceAndShift\NewCashierNoSpaceAndShift\bin\Debug\netcoreapp3.1\NewCashierNoSpaceAndShift.dll
+C:\Users\Богдан\Desktop\Codewars C#\NewCashierNoSpaceAndShift\NewCashierNoSpaceAndShift\bin\Debug\netcoreapp3.1\NewCashierNoSpaceAndShift.pdb
+C:\Users\Богдан\Desktop\Codewars C#\NewCashierNoSpaceAndShift\NewCashierNoSpaceAndShift\obj\Debug\netcoreapp3.1\NewCashierNoSpaceAndShift.csprojAssemblyReference.cache
+C:\Users\Богдан\Desktop\Codewars C#\NewCashierNoSpaceAndShift\NewCashierNoSpaceAndShift\obj\Debug\netcoreapp3.1\NewCashierNoSpaceAndShift.AssemblyInfoInputs.cache
+C:\Users\Богдан\Desktop\Codewars C#\NewCashierNoSpaceAndShift\NewCashierNoSpaceAndShift\obj\Debug\netcoreapp3.1\NewCashierNoSpaceAndShift.AssemblyInfo.cs
+C:\Users\Богдан\Desktop\Codewars C#\NewCashierNoSpaceAndShift\NewCashierNoSpaceAndShift\obj\Debug\netcoreapp3.1\NewCashierNoSpaceAndShift.csproj.CoreCompileInputs.cache
+C:\Users\Богдан\Desktop\Codewars C#\NewCashierNoSpaceAndShift\NewCashierNoSpaceAndShift\obj\Debug\netcoreapp3.1\NewCashierNoSpaceAndShift.dll
+C:\Users\Богдан\Desktop\Codewars C#\NewCashierNoSpaceAndShift\NewCashierNoSpaceAndShift\obj\Debug\netcoreapp3.1\NewCashierNoSpaceAndShift.pdb
+C:\Users\Богдан\Desktop\Codewars C#\NewCashierNoSpaceAndShift\NewCashierNoSpaceAndShift\obj\Debug\netcoreapp3.1\NewCashierNoSpaceAndShift.genruntimeconfig.cache
