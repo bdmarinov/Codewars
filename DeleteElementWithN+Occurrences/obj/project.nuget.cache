@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "1ysbX9hDzVb7TP6l5biT+SG400RtwtLQg8G59yYavaPWD+jttili5VQRIpDXdwdaKnL4AdSUfvVJKilPTADogg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Богдан\\Desktop\\Codewars C#\\DeleteElementWithN+Occurrences\\DeleteElementWithN+Occurrences\\DeleteElementWithN+Occurrences.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Богдан\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Богдан\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\Богдан\\.nuget\\packages\\nunit\\3.12.0\\nunit.3.12.0.nupkg.sha512"
+  ],
+  "logs": []
+}
