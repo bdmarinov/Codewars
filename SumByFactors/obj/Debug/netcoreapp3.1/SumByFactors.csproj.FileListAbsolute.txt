@@ -1,0 +1,12 @@
+C:\Users\Богдан\Desktop\Codewars C#\SumByFactors\SumByFactors\bin\Debug\netcoreapp3.1\SumByFactors.exe
+C:\Users\Богдан\Desktop\Codewars C#\SumByFactors\SumByFactors\bin\Debug\netcoreapp3.1\SumByFactors.deps.json
+C:\Users\Богдан\Desktop\Codewars C#\SumByFactors\SumByFactors\bin\Debug\netcoreapp3.1\SumByFactors.runtimeconfig.json
+C:\Users\Богдан\Desktop\Codewars C#\SumByFactors\SumByFactors\bin\Debug\netcoreapp3.1\SumByFactors.runtimeconfig.dev.json
+C:\Users\Богдан\Desktop\Codewars C#\SumByFactors\SumByFactors\bin\Debug\netcoreapp3.1\SumByFactors.dll
+C:\Users\Богдан\Desktop\Codewars C#\SumByFactors\SumByFactors\bin\Debug\netcoreapp3.1\SumByFactors.pdb
+C:\Users\Богдан\Desktop\Codewars C#\SumByFactors\SumByFactors\obj\Debug\netcoreapp3.1\SumByFactors.AssemblyInfoInputs.cache
+C:\Users\Богдан\Desktop\Codewars C#\SumByFactors\SumByFactors\obj\Debug\netcoreapp3.1\SumByFactors.AssemblyInfo.cs
+C:\Users\Богдан\Desktop\Codewars C#\SumByFactors\SumByFactors\obj\Debug\netcoreapp3.1\SumByFactors.csproj.CoreCompileInputs.cache
+C:\Users\Богдан\Desktop\Codewars C#\SumByFactors\SumByFactors\obj\Debug\netcoreapp3.1\SumByFactors.dll
+C:\Users\Богдан\Desktop\Codewars C#\SumByFactors\SumByFactors\obj\Debug\netcoreapp3.1\SumByFactors.pdb
+C:\Users\Богдан\Desktop\Codewars C#\SumByFactors\SumByFactors\obj\Debug\netcoreapp3.1\SumByFactors.genruntimeconfig.cache
