@@ -1,0 +1,12 @@
+C:\Users\Богдан\Desktop\Codewars C#\NextBiggerNumberWithSameDigits\NextBiggerNumberWithSameDigits\bin\Debug\netcoreapp3.1\NextBiggerNumberWithSameDigits.exe
+C:\Users\Богдан\Desktop\Codewars C#\NextBiggerNumberWithSameDigits\NextBiggerNumberWithSameDigits\bin\Debug\netcoreapp3.1\NextBiggerNumberWithSameDigits.deps.json
+C:\Users\Богдан\Desktop\Codewars C#\NextBiggerNumberWithSameDigits\NextBiggerNumberWithSameDigits\bin\Debug\netcoreapp3.1\NextBiggerNumberWithSameDigits.runtimeconfig.json
+C:\Users\Богдан\Desktop\Codewars C#\NextBiggerNumberWithSameDigits\NextBiggerNumberWithSameDigits\bin\Debug\netcoreapp3.1\NextBiggerNumberWithSameDigits.runtimeconfig.dev.json
+C:\Users\Богдан\Desktop\Codewars C#\NextBiggerNumberWithSameDigits\NextBiggerNumberWithSameDigits\bin\Debug\netcoreapp3.1\NextBiggerNumberWithSameDigits.dll
+C:\Users\Богдан\Desktop\Codewars C#\NextBiggerNumberWithSameDigits\NextBiggerNumberWithSameDigits\bin\Debug\netcoreapp3.1\NextBiggerNumberWithSameDigits.pdb
+C:\Users\Богдан\Desktop\Codewars C#\NextBiggerNumberWithSameDigits\NextBiggerNumberWithSameDigits\obj\Debug\netcoreapp3.1\NextBiggerNumberWithSameDigits.AssemblyInfoInputs.cache
+C:\Users\Богдан\Desktop\Codewars C#\NextBiggerNumberWithSameDigits\NextBiggerNumberWithSameDigits\obj\Debug\netcoreapp3.1\NextBiggerNumberWithSameDigits.AssemblyInfo.cs
+C:\Users\Богдан\Desktop\Codewars C#\NextBiggerNumberWithSameDigits\NextBiggerNumberWithSameDigits\obj\Debug\netcoreapp3.1\NextBiggerNumberWithSameDigits.csproj.CoreCompileInputs.cache
+C:\Users\Богдан\Desktop\Codewars C#\NextBiggerNumberWithSameDigits\NextBiggerNumberWithSameDigits\obj\Debug\netcoreapp3.1\NextBiggerNumberWithSameDigits.dll
+C:\Users\Богдан\Desktop\Codewars C#\NextBiggerNumberWithSameDigits\NextBiggerNumberWithSameDigits\obj\Debug\netcoreapp3.1\NextBiggerNumberWithSameDigits.pdb
+C:\Users\Богдан\Desktop\Codewars C#\NextBiggerNumberWithSameDigits\NextBiggerNumberWithSameDigits\obj\Debug\netcoreapp3.1\NextBiggerNumberWithSameDigits.genruntimeconfig.cache
