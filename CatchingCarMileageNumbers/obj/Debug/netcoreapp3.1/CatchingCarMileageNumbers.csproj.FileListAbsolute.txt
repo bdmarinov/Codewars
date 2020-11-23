@@ -1,0 +1,13 @@
+C:\Users\Богдан\source\repos\CatchingCarMileageNumbers\CatchingCarMileageNumbers\obj\Debug\netcoreapp3.1\CatchingCarMileageNumbers.csprojAssemblyReference.cache
+C:\Users\Богдан\source\repos\CatchingCarMileageNumbers\CatchingCarMileageNumbers\obj\Debug\netcoreapp3.1\CatchingCarMileageNumbers.AssemblyInfoInputs.cache
+C:\Users\Богдан\source\repos\CatchingCarMileageNumbers\CatchingCarMileageNumbers\obj\Debug\netcoreapp3.1\CatchingCarMileageNumbers.AssemblyInfo.cs
+C:\Users\Богдан\source\repos\CatchingCarMileageNumbers\CatchingCarMileageNumbers\obj\Debug\netcoreapp3.1\CatchingCarMileageNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Богдан\source\repos\CatchingCarMileageNumbers\CatchingCarMileageNumbers\bin\Debug\netcoreapp3.1\CatchingCarMileageNumbers.exe
+C:\Users\Богдан\source\repos\CatchingCarMileageNumbers\CatchingCarMileageNumbers\bin\Debug\netcoreapp3.1\CatchingCarMileageNumbers.deps.json
+C:\Users\Богдан\source\repos\CatchingCarMileageNumbers\CatchingCarMileageNumbers\bin\Debug\netcoreapp3.1\CatchingCarMileageNumbers.runtimeconfig.json
+C:\Users\Богдан\source\repos\CatchingCarMileageNumbers\CatchingCarMileageNumbers\bin\Debug\netcoreapp3.1\CatchingCarMileageNumbers.runtimeconfig.dev.json
+C:\Users\Богдан\source\repos\CatchingCarMileageNumbers\CatchingCarMileageNumbers\bin\Debug\netcoreapp3.1\CatchingCarMileageNumbers.dll
+C:\Users\Богдан\source\repos\CatchingCarMileageNumbers\CatchingCarMileageNumbers\bin\Debug\netcoreapp3.1\CatchingCarMileageNumbers.pdb
+C:\Users\Богдан\source\repos\CatchingCarMileageNumbers\CatchingCarMileageNumbers\obj\Debug\netcoreapp3.1\CatchingCarMileageNumbers.dll
+C:\Users\Богдан\source\repos\CatchingCarMileageNumbers\CatchingCarMileageNumbers\obj\Debug\netcoreapp3.1\CatchingCarMileageNumbers.pdb
+C:\Users\Богдан\source\repos\CatchingCarMileageNumbers\CatchingCarMileageNumbers\obj\Debug\netcoreapp3.1\CatchingCarMileageNumbers.genruntimeconfig.cache
