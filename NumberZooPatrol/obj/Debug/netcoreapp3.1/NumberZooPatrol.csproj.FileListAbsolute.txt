@@ -1,0 +1,13 @@
+C:\Users\Богдан\Desktop\Codewars C#\NumberZooPatrol\NumberZooPatrol\bin\Debug\netcoreapp3.1\NumberZooPatrol.exe
+C:\Users\Богдан\Desktop\Codewars C#\NumberZooPatrol\NumberZooPatrol\bin\Debug\netcoreapp3.1\NumberZooPatrol.deps.json
+C:\Users\Богдан\Desktop\Codewars C#\NumberZooPatrol\NumberZooPatrol\bin\Debug\netcoreapp3.1\NumberZooPatrol.runtimeconfig.json
+C:\Users\Богдан\Desktop\Codewars C#\NumberZooPatrol\NumberZooPatrol\bin\Debug\netcoreapp3.1\NumberZooPatrol.runtimeconfig.dev.json
+C:\Users\Богдан\Desktop\Codewars C#\NumberZooPatrol\NumberZooPatrol\bin\Debug\netcoreapp3.1\NumberZooPatrol.dll
+C:\Users\Богдан\Desktop\Codewars C#\NumberZooPatrol\NumberZooPatrol\bin\Debug\netcoreapp3.1\NumberZooPatrol.pdb
+C:\Users\Богдан\Desktop\Codewars C#\NumberZooPatrol\NumberZooPatrol\obj\Debug\netcoreapp3.1\NumberZooPatrol.csprojAssemblyReference.cache
+C:\Users\Богдан\Desktop\Codewars C#\NumberZooPatrol\NumberZooPatrol\obj\Debug\netcoreapp3.1\NumberZooPatrol.AssemblyInfoInputs.cache
+C:\Users\Богдан\Desktop\Codewars C#\NumberZooPatrol\NumberZooPatrol\obj\Debug\netcoreapp3.1\NumberZooPatrol.AssemblyInfo.cs
+C:\Users\Богдан\Desktop\Codewars C#\NumberZooPatrol\NumberZooPatrol\obj\Debug\netcoreapp3.1\NumberZooPatrol.csproj.CoreCompileInputs.cache
+C:\Users\Богдан\Desktop\Codewars C#\NumberZooPatrol\NumberZooPatrol\obj\Debug\netcoreapp3.1\NumberZooPatrol.dll
+C:\Users\Богдан\Desktop\Codewars C#\NumberZooPatrol\NumberZooPatrol\obj\Debug\netcoreapp3.1\NumberZooPatrol.pdb
+C:\Users\Богдан\Desktop\Codewars C#\NumberZooPatrol\NumberZooPatrol\obj\Debug\netcoreapp3.1\NumberZooPatrol.genruntimeconfig.cache
