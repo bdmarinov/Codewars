@@ -15,18 +15,19 @@ It's up to you, intrepid warrior, to glue the parts together. Write the function
 + ‡ For decrementing sequences, 0 should come after 1, and not before 9, as in 3210.
 
 So, you should expect these inputs and outputs:
-// "boring" numbers
+
+"boring" numbers
 + IsInteresting(3, new List<int>() { 1337, 256 });    // 0
 + IsInteresting(3236, new List<int>() { 1337, 256 }); // 0
 
-// progress as we near an "interesting" number
+progress as we near an "interesting" number
 + IsInteresting(11207, new List<int>() { });   // 0
 + IsInteresting(11208, new List<int>() { });   // 0
 + IsInteresting(11209, new List<int>() { });   // 1
 + IsInteresting(11210, new List<int>() { });   // 1
 + IsInteresting(11211, new List<int>() { });   // 2
 
-// nearing a provided "awesome phrase"
+nearing a provided "awesome phrase"
 + IsInteresting(1335, new List<int>() { 1337, 256 });   // 1
 + IsInteresting(1336, new List<int>() { 1337, 256 });   // 1
 + IsInteresting(1337, new List<int>() { 1337, 256 });   // 2
