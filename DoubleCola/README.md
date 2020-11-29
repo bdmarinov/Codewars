@@ -8,7 +8,9 @@ Write a program that will return the name of the person who will drink the n-th 
 Input:
 + The input data consist of an array which contains at least 1 name, and single integer n which may go as high as the biggest number your language of choice supports (if there's such limit, of course).
 
-Output / Examples: string[] names = new string[] { "Sheldon", "Leonard", "Penny", "Rajesh", "Howard" };
+Output / Examples: 
+
+string[] names = new string[] { "Sheldon", "Leonard", "Penny", "Rajesh", "Howard" };
 + WhoIsNext(names, 1) == "Sheldon"
 + WhoIsNext(names, 52) == "Penny"
 + WhoIsNext(names, 7230702951) == "Leonard"
