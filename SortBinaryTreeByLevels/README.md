@@ -11,6 +11,7 @@ Return empty list if root is 'null'.
           
 Should return following list: [2,8,9,1,3,4,5]
 +Example 2 - following tree:
+
                  1
             8        4
               3        5
